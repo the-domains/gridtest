@@ -1,0 +1,23 @@
+name: GridTest
+favicon: null
+layout_spectrum: 0.017180635826662183
+typography_spectrum: 0.8127381701488048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3193797750864178
+  lightness: 0.2719600456766784
+  saturation: 0.20132202957756817
+  rhythmicContrast: 0.8321546809747815
+purpose: []
